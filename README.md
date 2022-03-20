@@ -1,5 +1,5 @@
 # ODIN-rock-paper-scissors-Game
-live: 
+live: https://rwmotivation.github.io/RockPaperScrs/
 
 Rock paper scissors game where you play against the computer.
 
